@@ -1,5 +1,5 @@
 {
-    "name" : "mailjet-apiv3-php",
+    "name" : "mailjet/mailjet-apiv3-php",
     "description" : "OOP wrapper for the Mailjet API",
     "type" : "library",
     "keywords" : [
